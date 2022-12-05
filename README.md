@@ -22,8 +22,6 @@
   <a href = "mailto:antonio.jhone@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhone-antonio-dos-santos-792620116" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/EbonyWizard4/blob/output/github-contribution-grid-snake.svg)
- 
 </div> 
 <!--
 **EbonyWizard4/EbonyWizard4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
