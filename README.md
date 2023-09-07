@@ -1,4 +1,15 @@
-## Hi, eu sou o Jhone, estudante de engenharia de Computação! 👋
+# Hi, eu sou o Jhone! 👋
+
+<table width="960px"
+  <tr>
+    <td valign="top">  
+  <p>Programador Python, React e JS.</p> 
+  <p>Formando em Engenharia de Computação | UNIVESP.</p>
+  <p>Atualmente estou focado em tecnologias de análise de dados para o mercado financeiro.</p>
+  <p>Meu último projeto envolve aplicações de modelos de análise fundamentalista de grandes nomes do mercado, para composição de carteiras de investimento de forma facilitada.</p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/EbonyWizard4">
@@ -6,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EbonyWizard4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbonyWizard4&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+    
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jhone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
