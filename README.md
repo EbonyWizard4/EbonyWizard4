@@ -1,4 +1,4 @@
-# Hi, eu sou o Jhone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+# Hi, eu sou o Jhone! - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <table width="960px"
   <tr>
