@@ -5,14 +5,11 @@
   <p>Send me an e-mail</p>
 </a>
 
-<sub>ㅤ</sub>
-
 <a href="https://www.linkedin.com/in/antoniojhone/">
   <img align="left" alt="Jhone Antonio | LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+  <p>Visit my profile</p>
 
 </a>
-
-<sub>ㅤ</sub>
 
 [![GitHub lohhans](https://img.shields.io/github/followers/EbonyWizard4?label=follow&style=social)](https://github.com/EbonyWizard4)
 <sub>ㅤ</sub>
