@@ -31,12 +31,15 @@
 </table>
 
 <div align="center">
-  <a href="https://github.com/EbonyWizard4">
+  <a href="https://github.com/EbonyWizard4/github-readme-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EbonyWizard4&theme=dracula" width="400"></br>
+  <img src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EbonyWizard4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbonyWizard4&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebonywizard4&theme=juicyfresh&row=1&no-bg=true&margin-w=10" width="830" alt="Jhone Antonio" /></a> </p>
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jhone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -55,6 +58,7 @@
   <a href="https://www.linkedin.com/in/jhone-antonio-dos-santos-792620116" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div> 
+
 <!--
 **EbonyWizard4/EbonyWizard4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
