@@ -11,18 +11,21 @@
 
 </a>
 
-[![GitHub lohhans](https://img.shields.io/github/followers/EbonyWizard4?label=follow&style=social)](https://github.com/EbonyWizard4)
+[![GitHub EbonyWizard4](https://img.shields.io/github/followers/EbonyWizard4?label=follow&style=social)](https://github.com/EbonyWizard4)
 <sub>ㅤ</sub>
-[![GitHub lohhans](https://komarev.com/ghpvc/?username=EbonyWizard4&label=Profile%20views&color=0eb45e&style=flat)](https://github.com/EbonyWizard4)
+[![GitHub EbonyWizard4](https://komarev.com/ghpvc/?username=EbonyWizard4&label=Profile%20views&color=0eb45e&style=flat)](https://github.com/EbonyWizard4)
 <sub>ㅤ</sub>
 
 <table width="960px"
   <tr>
     <td valign="top">  
-  <p>Programador Python, React e JS.</p> 
-  <p>Formando em Engenharia de Computação | UNIVESP.</p>
-  <p>Atualmente estou focado em tecnologias de análise de dados para o mercado financeiro.</p>
-  <p>Meu último projeto envolve aplicações de modelos de análise fundamentalista de grandes nomes do mercado, para composição de carteiras de investimento de forma facilitada.</p>
+      ### 🧔🏻 About me
+
+      - 👨🏻‍💻 Programador Python, React e JS.
+      - 🎓 Formando em Engenharia de Computação | UNIVESP.
+      - 🤓 Atualmente focado em tecnologias de análise de dados para o mercado financeiro.
+      - 🔭 Meu último projeto envolve aplicações de modelos de análise fundamentalista de grandes nomes do mercado, para composição de carteiras de investimento de forma facilitada.
+      - 🐦 No memoento estou aprendendo flask para criação e exposição de projetos web fullstack.
     </td>
   </tr>
 </table>
