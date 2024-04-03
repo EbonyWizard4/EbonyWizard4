@@ -1,4 +1,12 @@
-# Hi, eu sou o Jhone! - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+### Hi there, I'm Jhone Antonio - aka _Jhone_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+
+<a href="Jhone:dev.antonio.jhone@gmail.com">
+  <img align="left" alt="Jhone Antonio | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/antoniojhone/">
+  <img align="left" alt="Jhone Antonio | LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+</a>
 
 <table width="960px"
   <tr>
