@@ -18,7 +18,6 @@
 
 <table width="960px"
   <tr>
-    <td valign="top">  
       ### 🧔🏻 About me
 
       - 👨🏻‍💻 Programador Python, React e JS.
@@ -26,14 +25,12 @@
       - 🤓 Atualmente focado em tecnologias de análise de dados para o mercado financeiro.
       - 🔭 Meu último projeto envolve aplicações de modelos de análise fundamentalista de grandes nomes do mercado, para composição de carteiras de investimento de forma facilitada.
       - 🐦 No memoento estou aprendendo flask para criação e exposição de projetos web fullstack.
-    </td>
   </tr>
 </table>
 
 <div align="center">
   <a href="https://github.com/EbonyWizard4/github-readme-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EbonyWizard4&theme=dracula" width="400"></br>
-  <img src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="400" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EbonyWizard4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbonyWizard4&layout=compact&langs_count=7&theme=dracula"/>
 </div>
