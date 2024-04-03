@@ -33,7 +33,7 @@
 <div align="center">
   <a href="https://github.com/EbonyWizard4/github-readme-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EbonyWizard4&theme=dracula" width="400"></br>
-  <img src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
+  <img src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="400" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EbonyWizard4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbonyWizard4&layout=compact&langs_count=7&theme=dracula"/>
 </div>
