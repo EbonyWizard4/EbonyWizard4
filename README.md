@@ -16,8 +16,6 @@
 [![GitHub EbonyWizard4](https://komarev.com/ghpvc/?username=EbonyWizard4&label=Profile%20views&color=0eb45e&style=flat)](https://github.com/EbonyWizard4)
 <sub>ㅤ</sub>
 
-<table width="960px"
-  <tr>
     ### 🧔🏻 About me
 
     - 👨🏻‍💻 Programador Python, React e JS.
@@ -25,8 +23,6 @@
     - 🤓 Atualmente focado em tecnologias de análise de dados para o mercado financeiro.
     - 🔭 Meu último projeto envolve aplicações de modelos de análise fundamentalista de grandes nomes do mercado, para composição de carteiras de investimento de forma facilitada.
     - 🐦 No memoento estou aprendendo flask para criação e exposição de projetos web fullstack.
-  </tr>
-</table>
 
 <div align="center">
   <a href="https://github.com/EbonyWizard4/github-readme-stats">
