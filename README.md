@@ -2,12 +2,14 @@
 
 <a href="Jhone:dev.antonio.jhone@gmail.com">
   <img align="left" alt="Jhone Antonio | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  <p>Send me an e-mail</p>
 </a>
 
 <sub>ㅤ</sub>
 
 <a href="https://www.linkedin.com/in/antoniojhone/">
   <img align="left" alt="Jhone Antonio | LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+
 </a>
 
 <sub>ㅤ</sub>
