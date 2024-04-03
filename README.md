@@ -17,13 +17,15 @@
 <sub>ㅤ</sub>
 
 <table width="960px"
-      ### 🧔🏻 About me
+  <tr>
+    ### 🧔🏻 About me
 
-      - 👨🏻‍💻 Programador Python, React e JS.
-      - 🎓 Formando em Engenharia de Computação | UNIVESP.
-      - 🤓 Atualmente focado em tecnologias de análise de dados para o mercado financeiro.
-      - 🔭 Meu último projeto envolve aplicações de modelos de análise fundamentalista de grandes nomes do mercado, para composição de carteiras de investimento de forma facilitada.
-      - 🐦 No memoento estou aprendendo flask para criação e exposição de projetos web fullstack.
+    - 👨🏻‍💻 Programador Python, React e JS.
+    - 🎓 Formando em Engenharia de Computação | UNIVESP.
+    - 🤓 Atualmente focado em tecnologias de análise de dados para o mercado financeiro.
+    - 🔭 Meu último projeto envolve aplicações de modelos de análise fundamentalista de grandes nomes do mercado, para composição de carteiras de investimento de forma facilitada.
+    - 🐦 No memoento estou aprendendo flask para criação e exposição de projetos web fullstack.
+  </tr>
 </table>
 
 <div align="center">
