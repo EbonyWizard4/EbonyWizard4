@@ -4,9 +4,18 @@
   <img align="left" alt="Jhone Antonio | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
+<sub>ㅤ</sub>
+
 <a href="https://www.linkedin.com/in/antoniojhone/">
   <img align="left" alt="Jhone Antonio | LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
+
+<sub>ㅤ</sub>
+
+[![GitHub lohhans](https://img.shields.io/github/followers/EbonyWizard4?label=follow&style=social)](https://github.com/EbonyWizard4)
+<sub>ㅤ</sub>
+[![GitHub lohhans](https://komarev.com/ghpvc/?username=EbonyWizard4&label=Profile%20views&color=0eb45e&style=flat)](https://github.com/EbonyWizard4)
+<sub>ㅤ</sub>
 
 <table width="960px"
   <tr>
