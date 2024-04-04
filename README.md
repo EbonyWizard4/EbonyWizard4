@@ -56,7 +56,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbonyWizard4&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebonywizard4&theme=juicyfresh&row=3&no-bg=true&margin-w=10" width="830" alt="Jhone Antonio" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebonywizard4&theme=juicyfresh&row=1&no-bg=true&margin-w=20" width="930" alt="Jhone Antonio" /></a> </p>
 
   
   ##
