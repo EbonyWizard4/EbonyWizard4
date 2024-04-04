@@ -24,7 +24,7 @@
 - 🎓 Formando em Engenharia de Computação | UNIVESP.
 - 🤓 Atualmente focado em tecnologias de análise de dados para o mercado financeiro.
 - 🔭 Meu último projeto envolve aplicações de modelos de análise fundamentalista de grandes nomes do mercado, para composição de carteiras de investimento de forma facilitada.
-- 🐦 No memoento estou aprendendo flask para criação e exposição de projetos web fullstack.
+- 🐦 No momento estou aprendendo flask para criação e exposição de projetos web fullstack.
 
 ##
 
