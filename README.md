@@ -45,6 +45,7 @@
   <img align="center" alt="Jhone-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="Jhone-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Jhone-Csharp" height="40" width="60" src="https://www.vectorlogo.zone/logos/google_drive/google_drive-ar21.svg"/>
+</div>
   
 ##
 
