@@ -26,7 +26,7 @@
 - 🔭 Meu último projeto envolve aplicações de modelos de análise fundamentalista de grandes nomes do mercado, para composição de carteiras de investimento de forma facilitada.
 - 🐦 No momento estou aprendendo flask para criação e exposição de projetos web fullstack.
 
-##
+## 
 
 ### 🛠 Languages and Tools
 
@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/jhone-antonio-dos-santos-792620116" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div> 
-##
+
 <!--
 **EbonyWizard4/EbonyWizard4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
