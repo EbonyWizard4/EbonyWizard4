@@ -62,7 +62,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebonywizard4&theme=juicyfresh&row=1&no-bg=true&margin-w=20" width="930" alt="Jhone Antonio" /></a> </p>
 -->
   
-  ##
+
  
 <div align="center"> 
  	 <a href="https://discord.gg/EbonyWizard4#7408" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/jhone-antonio-dos-santos-792620116" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div> 
-
+##
 <!--
 **EbonyWizard4/EbonyWizard4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
