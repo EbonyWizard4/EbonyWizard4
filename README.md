@@ -49,7 +49,8 @@
   
 ##
 
-### 👨🏻‍💻 GitHub Stats
+### 👨🏻‍💻 Contacts:
+<!--
 <div align="center">
   <a href="https://github.com/ebonyWizard4/">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EbonyWizard4&theme=dracula" width="400"></br>
@@ -59,7 +60,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ebonywizard4&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebonywizard4&theme=juicyfresh&row=1&no-bg=true&margin-w=20" width="930" alt="Jhone Antonio" /></a> </p>
-
+-->
   
   ##
  
