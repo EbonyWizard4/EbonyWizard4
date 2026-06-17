@@ -1,87 +1,210 @@
-### Hi there, I'm Jhone Antonio - aka _Jhone_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-
-<a href="Jhone:dev.antonio.jhone@gmail.com">
-  <img align="left" alt="Jhone Antonio | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-  <p>Send me an e-mail</p>
-</a>
-
-<a href="https://www.linkedin.com/in/antoniojhone/">
-  <img align="left" alt="Jhone Antonio | LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-  <p>Visit my profile</p>
-
-</a>
-
-[![GitHub EbonyWizard4](https://img.shields.io/github/followers/EbonyWizard4?label=follow&style=social)](https://github.com/EbonyWizard4)
-<sub>ㅤ</sub>
-[![GitHub EbonyWizard4](https://komarev.com/ghpvc/?username=EbonyWizard4&label=Profile%20views&color=0eb45e&style=flat)](https://github.com/EbonyWizard4)
-<sub>ㅤ</sub>
-
-##
-
-### 🧔🏻 About me
-
-- 👨🏻‍💻 Programador Python, React e JS.
-- 🎓 Formando em Engenharia de Computação | UNIVESP.
-- 🤓 Atualmente focado em tecnologias de análise de dados para o mercado financeiro.
-- 🔭 Meu último projeto envolve aplicações de modelos de análise fundamentalista de grandes nomes do mercado, para composição de carteiras de investimento de forma facilitada.
-- 🐦 No momento estou aprendendo flask para criação e exposição de projetos web fullstack.
-
-## 
-
-### 🛠 Languages and Tools
-
-<div style="display: inline_block" align="center"><br>
-  
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Jhone-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Jhone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jhone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jhone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jhone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jhone-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jhone-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-  <img align="center" alt="Jhone-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" />
-  <img align="center" alt="Jhone-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="Jhone-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Jhone-Csharp" height="40" width="60" src="https://www.vectorlogo.zone/logos/google_drive/google_drive-ar21.svg"/>
-</div>
-  
-##
-
-### 👨🏻‍💻 Contacts:
-<!--
 <div align="center">
-  <a href="https://github.com/ebonyWizard4/">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EbonyWizard4&theme=dracula" width="400"></br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EbonyWizard4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbonyWizard4&layout=compact&langs_count=7&theme=dracula"/>
+
+# 👋 Bem-vindo ao Meu Perfil GitHub
+
+**🎵 Desenvolvedor Full Stack | Engenheiro de Computação | Músico e Inovador**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=EbonyWizard4&color=0e75b6)](https://github.com/EbonyWizard4)
+[![GitHub followers](https://img.shields.io/github/followers/EbonyWizard4?style=social&label=Seguidores)](https://github.com/EbonyWizard4?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/EbonyWizard4?style=social&label=Stars)](https://github.com/EbonyWizard4?tab=stars)
+
+[🌐 Portfólio](https://ebw.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/antoniojhone) • [🏢 Função Sistemas](https://www.funcao.com.br)
+
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ebonywizard4&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebonywizard4&theme=juicyfresh&row=1&no-bg=true&margin-w=20" width="930" alt="Jhone Antonio" /></a> </p>
--->
-  
+---
 
- 
-<div align="center"> 
- 	 <a href="https://discord.gg/EbonyWizard4#7408" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dev.antonio.jhone@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhone-antonio-dos-santos-792620116" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div> 
+## 🚀 Sobre Mim
 
-<!--
-**EbonyWizard4/EbonyWizard4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Engenheiro de Computação em formação** pela UNIVESP com experiência prática como **QA Tester Jr.** em uma software house de produtos financeiros. Apaixonado por criar soluções que simplificam a vida e potencializam a criatividade — seja através de softwares inovadores ou hardwares que ampliam as possibilidades como músico.
 
-Here are some ideas to get you started:
+Com foco em **desenvolvimento full stack de alto rendimento**, trabalho na interseção entre tecnologia, design e experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Minha Filosofia
+> *"Código é criatividade. Tecnologia é liberdade. Inovação é transformação."*
+
+Assim como na música, na programação busco harmonia entre **função, performance e elegância**. Cada projeto é uma composição pensada em camadas — do backend robusto até a interface intuitiva que encanta o usuário.
+
+---
+
+## 🎯 Trajetória Profissional
+
+### 🧪 QA Tester Jr. | Função Sistemas (Software House - Produtos Financeiros)
+- Validação de sistemas financeiros complexos
+- Testes automatizados e manuais
+- Garantia de qualidade e segurança em aplicações críticas
+- Colaboração com equipes de desenvolvimento
+
+---
+
+## 🔧 Habilidades Técnicas
+
+| **Frontend** | **Backend** | **Dados & Infra** | **Ferramentas** |
+|---|---|---|---|
+| Next.js 14+ | Python | SQL | Git/GitHub |
+| React | Flask | Firebase | VS Code |
+| TypeScript | Peewee ORM | Google Sheets | Docker |
+| Tailwind CSS | RESTful APIs | Automação JS/GAS | Figma |
+| Framer Motion | Web Scraping | Análise de Dados | Selenium |
+
+**Linguagens:** JavaScript • TypeScript • Python • SQL
+
+**Especialidades:** Desenvolvimento Full Stack • Gamification • Análise Financeira • Web Scraping • Desktop UI (Tkinter)
+
+---
+
+## ⭐ Projetos Destacados
+
+### 🗺️ [Diário de Viagem](https://github.com/EbonyWizard4/diario-de-viagem) | TCC - Projeto de Conclusão de Curso
+**Plataforma gamificada de turismo autêntico** — Conecte-se com rotas turísticas, gastronômicas e culturais reais
+
+**🔗 [Demo ao Vivo](https://diario-de-viagem.vercel.app/) | [Código](https://github.com/EbonyWizard4/diario-de-viagem)**
+
+- ✨ **Gamification System** — Cálculo dinâmico de proximidade com acúmulo de XP em tempo real
+- 📍 **Geolocation API** — Check-ins reais e descoberta baseada em localização
+- 🔐 **Segurança Enterprise** — Firestore Security Rules + autenticação Firebase
+- 🎨 **UI/UX Premium** — Animações fluidas com Framer Motion
+- ⚡ **Stack Moderno** — Next.js 14, TypeScript, Tailwind CSS, Firebase
+
+**O que aprendi:** Arquitetura de segurança, gamificação em tempo real, design responsivo
+
+---
+
+### 📈 [Gerador de Carteiras](https://github.com/EbonyWizard4/Gerador_de_Carteiras) | Análise Fundamentalista Automatizada
+**Desktop app em Python que gera carteiras de investimento otimizadas**
+
+- 🤖 **Web Scraping + Análise** — Extrai dados de fundamentus.com.br em tempo real
+- 📊 **Modelos Fundamentalistas** — Aplica metodologias de grandes investidores
+- 📄 **Relatórios PDF Estilizados** — Gera documentos profissionais automaticamente
+- 🎯 **Interface Tkinter** — GUI intuitiva para visualização e controle
+
+**Tech Stack:** Python • Selenium • BeautifulSoup • Pandas • FPDF • Tkinter
+
+---
+
+### 💱 [HELP_TRADER](https://github.com/EbonyWizard4/HELP_TRADER) | Análise Gráfica para Day Trade
+**Ferramenta de apoio para validar estratégias de day trading**
+
+- 📊 Análise técnica em tempo real
+- 🔍 Validação de estratégias
+- 📈 Visualização de gráficos avançados
+
+---
+
+### 📋 [Planilha FII](https://github.com/EbonyWizard4/Planilha_FII) | Seletor de Fundos Imobiliários
+**Google Sheets automatizada com JavaScript para filtrar os melhores FIIs do mercado**
+
+- 🤖 **Automação com Apps Script** — Atualização automática de dados
+- 🔗 **Web Scraping em Sheets** — Coleta dados de clubefii.com.br
+- 📊 **Filtros Dinâmicos** — Conceitos aceitos por profissionais do mercado
+- 📱 **Acessível** — Funciona em qualquer navegador com Google Account
+
+**Tech Stack:** Google Apps Script • JavaScript • Google Sheets API
+
+---
+
+## 🎵 Intersecção: Música & Tecnologia
+
+Quando não estou codificando, estou tocando. Minha visão é criar:
+
+- 🎹 **Hardware Musical** — Interfaces que ampliem expressão artística
+- 🎧 **Software Audio** — Ferramentas que facilitem minha produção
+- 🔊 **Integração Tech-Art** — Soluções que combinam criatividade com tecnologia
+
+Acredito que programadores-músicos entendem melhor a importância de:
+- **Ritmo** (timing, performance)
+- **Harmonia** (arquitetura, integração)
+- **Composição** (design, estrutura)
+
+---
+
+## 🎓 Formação & Certificações
+
+- **👨‍🎓 Engenharia de Computação** — UNIVESP (Em andamento)
+- **🧪 QA Testing** — Experiência prática em software house financeira
+- **💼 Função Sistemas** — Ambiente de produtos de alto desempenho
+
+---
+
+## 🏆 Objetivos de Carreira
+
+```
+🎯 Objetivo: Ser um Programador Full Stack de Alto Rendimento
+
+├─ Maturidade em Python, SQL e Next.js ✅
+├─ Sistemas de produção em escala
+├─ Arquitetura e design patterns
+├─ Open source contributions
+└─ Impacto real na vida dos usuários
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EbonyWizard4&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&border_color=0e75b6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EbonyWizard4&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&border_color=0e75b6)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack Visual
+
+```
+Frontend          → React | Next.js | TypeScript | Tailwind CSS | Framer Motion
+Backend           → Python | Flask | RESTful APIs | Web Scraping
+Database          → SQL | Firebase/Firestore | SQLite
+Desktop/Automation→ Tkinter | Selenium | Google Apps Script
+DevOps/Tools      → Git | GitHub | Vercel | Docker
+```
+
+---
+
+## 📚 Aprendizados Recentes
+
+- 🔐 **Segurança em Firestore** — Implementação de regras e autenticação
+- 🎮 **Gamification Mechanics** — Sistemas de progressão e engajamento
+- 📊 **Análise de Dados** — Pandas, Web Scraping, Fundamentals
+- 🚀 **Performance & Otimização** — Next.js, lazy loading, memoization
+- 🎨 **Design Systems** — Tailwind CSS, Framer Motion, UX patterns
+
+---
+
+## 🤝 Vamos Conectar!
+
+Sempre aberto para colaborações em projetos inovadores, discussões sobre tecnologia e oportunidades desafiadoras.
+
+### 📮 Entre em Contato
+- **LinkedIn:** [linkedin.com/in/antoniojhone](https://www.linkedin.com/in/antoniojhone)
+- **Portfolio:** [ebw.vercel.app](https://ebw.vercel.app)
+- **Empresa:** [Função Sistemas](https://www.funcao.com.br)
+
+---
+
+## 🌟 O Que Procuro
+
+- 🎯 Projetos full stack desafiadores
+- 🤝 Colaboração em open source
+- 🚀 Oportunidades de crescimento técnico
+- 🎵 Iniciativas que conectem tech e criatividade
+
+---
+
+<div align="center">
+
+### ⭐ Se meu trabalho é útil, considere deixar uma estrela!
+
+**Criando código com propósito. Inovando com paixão.**
+
+```
+╔══════════════════════════════════════╗
+║  "Harmonia entre função e elegância" ║
+║         — EbonyWizard4 🎵💻          ║
+╚══════════════════════════════════════╝
+```
+
+</div>
